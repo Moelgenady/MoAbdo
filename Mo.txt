@@ -1,2 +1,6 @@
 This is 1st Line
+<<<<<<< HEAD
 This is 2nd Line 
+=======
+hello from the second branch
+>>>>>>> feature-second-branch
